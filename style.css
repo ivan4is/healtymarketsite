@@ -1,3 +1,4 @@
+
 body {
     font-family: sans-serif;
    background-image: linear-gradient(to right, #ffffff, #ffe4e1, #f5f5dc, #e0f7fa);
@@ -104,5 +105,37 @@ h2{
 
 img{
 
-    width: 155px; height:120px;
+    width: 215px; height:220px;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+.prod{
+
+    border-bottom: 5px double black;
+}
+
+
+p{
+
+    font-size: 50px;
 }
